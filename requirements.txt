@@ -1,6 +1,6 @@
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
-langchain==0.2.1           # pulls the right langchain-core automatically
-langchain-openai==0.1.4
+langchain==0.2.2
+langchain-openai==0.1.5
 openai>=1.30,<2.0
 python-dotenv==1.0.1
